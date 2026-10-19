@@ -1,10 +1,10 @@
 cask "derivate" do
-  version "1.0.0"
-  sha256 "9ddcbf04f91ccafcf705ced69c2697deebd1e612563abfa0e25a5b7a8f416d66"
+  version "1.1.0"
+  sha256 "85a9dfa0bd7786a20041df29a687ee001fcb626a7c0211f0e364298748d3e643"
 
   url "https://github.com/jkroso/derivate/releases/download/v#{version}/Derivate-#{version}.zip"
   name "Derivate"
-  desc "Menu bar app that makes your passwords from your name and secret"
+  desc "Menu bar app that makes your passwords from your name and master password"
   homepage "https://github.com/jkroso/derivate"
 
   livecheck do
