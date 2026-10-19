@@ -1,6 +1,6 @@
 cask "derivate" do
-  version "1.1.0"
-  sha256 "85a9dfa0bd7786a20041df29a687ee001fcb626a7c0211f0e364298748d3e643"
+  version "1.1.1"
+  sha256 "097dc6450faccc379b3a769416db1c63188d38e07983020d19956af6611ef8e0"
 
   url "https://github.com/jkroso/derivate/releases/download/v#{version}/Derivate-#{version}.zip"
   name "Derivate"
